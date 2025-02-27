@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88197098485",
+    "project_id": "money-mate-608fd",
+    "storage_bucket": "money-mate-608fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88197098485:android:e469787932f77eb0f10ebc",
+        "android_client_info": {
+          "package_name": "u1.money_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTPMtxmixQ5RCYw_y59ohq69jNCW4sZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
